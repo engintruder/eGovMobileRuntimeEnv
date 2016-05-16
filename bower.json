@@ -11,8 +11,7 @@
     "eGov"
   ],
   "license": "MIT",
-  "homepage": "",
-  "private": true,
+  "homepage": "http://www.egovframe.go.kr/cop/bbs/selectBoardArticle.do?bbsId=BBSMSTR_000000000001&submenu=5&menu=3&nttId=1015",
   "ignore": [
     "node_modules",
     "bower_components",
